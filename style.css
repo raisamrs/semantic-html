@@ -37,3 +37,7 @@ a {
     font-size: 20px;
     font-family: monospace;
 }
+
+.negrito-titulo{
+    font-weight: 1000;
+}
