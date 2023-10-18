@@ -1,0 +1,34 @@
+p {
+    font-size: 20px;
+    font-family: monospace
+}
+
+h1 {
+    font-size: 4em;
+    font-family: monospace;
+    color: rgb(26, 90, 69);
+
+}
+
+h2 {
+    font-size: 3em;
+    font-family: monospace;
+    color: rgb(44, 139, 108);
+}
+
+h3 {
+    font-size: 2em;
+    font-family: monospace;
+    color: rgb(115, 182, 160);
+}
+
+a {
+    font-size: 20px;
+    font-family: monospace;
+    color: rgba(8, 83, 112, 0.459);
+}
+
+.nomenclatura-cientifica {
+    font-size: 20px;
+    font-family: monospace
+}
